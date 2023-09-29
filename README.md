@@ -12,6 +12,10 @@
 
 - **User-Friendly Interface**: The app offers an intuitive and user-friendly interface for easy navigation and counting configuration.
 
+## Screenshots
+![Screenshot](screenshots/descending.jpeg)
+![Screenshot](screenshots/ascending.jpeg)
+
 ## Usage
 
 1. Install the app on your Android device.
