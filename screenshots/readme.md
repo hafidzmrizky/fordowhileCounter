@@ -1,2 +1,2 @@
-![Screenshot](screenshots/descending.jpeg)
-![Screenshot](screenshots/ascending.jpeg)
+![Screenshot](descending.jpeg)
+![Screenshot](ascending.jpeg)
